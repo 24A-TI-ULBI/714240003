@@ -351,20 +351,20 @@ Frontend — **Halaman Data Ormawa**
 
 ## 6. Pembagian Tugas (12 Mahasiswa)
 
-| No | Modul BE 1 | Modul BE 2 | Menu FE | Nama
-|----|-----------|-----------|---------|---------|
-| 1 | Mahasiswa (CRUD) | Auth (login phone) | Halaman Data Mahasiswa |
-| 2 | Dosen (CRUD) | Jabatan (CRUD) | Halaman Data Dosen |
-| 3 | Mata Kuliah (CRUD) | KRS (daftar matkul) | Halaman Mata Kuliah |
-| 4 | Jadwal (CRUD) | Ruangan (CRUD) | Halaman Jadwal Kuliah |
-| 5 | Nilai (CRUD) | Transkrip (rekap + IPK) | Halaman Input Nilai |
-| 6 | Absensi (CRUD) | Rekap Absensi | Halaman Form Absensi |
-| 7 | Pengumuman (CRUD) | Kategori (CRUD) | Halaman Board Pengumuman |
-| 8 | Beasiswa (CRUD) | Pendaftaran Beasiswa | Halaman List Beasiswa |
-| 9 | Buku/Perpustakaan (CRUD) | Peminjaman Buku | Halaman Cari Buku |
-| 10 | Prestasi (CRUD) | Kategori Prestasi | Halaman Input Prestasi |
-| 11 | Alumni (CRUD) | Lowongan Kerja (CRUD) | Halaman Alumni & Lowongan |
-| 12 | Ormawa (CRUD) | Kegiatan Ormawa (CRUD) | Halaman Data Ormawa |
+| No | Modul BE 1 | Modul BE 2 | Menu FE | Nama Mahasiswa |
+|:---:|:---|:---|:---|:---|
+| 1 | Mahasiswa (CRUD) | Auth (login phone) | Halaman Data Mahasiswa | raditya |
+| 2 | Dosen (CRUD) | Jabatan (CRUD) | Halaman Data Dosen | keyla |
+| 3 | Mata Kuliah (CRUD) | KRS (daftar matkul) | Halaman Mata Kuliah | apipah |
+| 4 | Jadwal (CRUD) | Ruangan (CRUD) | Halaman Jadwal Kuliah | lipyak |
+| 5 | Nilai (CRUD) | Transkrip (rekap + IPK) | Halaman Input Nilai | samuel |
+| 6 | Absensi (CRUD) | Rekap Absensi | Halaman Form Absensi | izah |
+| 7 | Pengumuman (CRUD) | Kategori (CRUD) | Halaman Board Pengumuman | faidil |
+| 8 | Beasiswa (CRUD) | Pendaftaran Beasiswa | Halaman List Beasiswa | yasmin |
+| 9 | Buku/Perpustakaan (CRUD) | Peminjaman Buku | Halaman Cari Buku | ara |
+| 10 | Prestasi (CRUD) | Kategori Prestasi | Halaman Input Prestasi | isa |
+| 11 | Alumni (CRUD) | Lowongan Kerja (CRUD) | Halaman Alumni & Lowongan | Faris |
+| 12 | Ormawa (CRUD) | Kegiatan Ormawa (CRUD) | Halaman Data Ormawa | arip |
 
 ---
 
