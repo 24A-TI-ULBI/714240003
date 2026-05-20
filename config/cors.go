@@ -7,7 +7,7 @@ import (
 // CorsConfig returns the CORS configuration for the app
 func CorsConfig() cors.Config {
 	return cors.Config{
-		AllowOrigins: "http://127.0.0.1:5500",
+		AllowOrigins:     "*",
 		AllowHeaders:     "Origin, Content-Type, Accept, Authorization",
 		AllowMethods:     "GET, POST, HEAD, PUT, DELETE, PATCH, OPTIONS",
 		AllowCredentials: true,
