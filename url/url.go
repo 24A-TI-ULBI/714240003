@@ -8,8 +8,13 @@ import (
 
 // Web maps routes to controllers
 func Web(app *fiber.App) {
+
 	app.Get("/", controller.Homepage)
+
 	app.Get("/ip", controller.IPServer)
+
+	BeasiswaRoute(app)
+	PendaftaranRoute(app)
 
 	// Mahasiswa
 	app.Get("/mahasiswa", controller.GetAllMahasiswa)
