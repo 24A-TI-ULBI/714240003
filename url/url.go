@@ -16,18 +16,4 @@ func Web(app *fiber.App) {
 
 	modul9.RegisterRoutes(app)
 
-
-	BeasiswaRoute(app)
-	PendaftaranRoute(app)
-
-	// Mahasiswa
-	app.Get("/mahasiswa", controller.GetAllMahasiswa)
-	app.Get("/mahasiswa/:npm", controller.GetMahasiswaByNPM)
-	app.Post("/mahasiswa", controller.CreateMahasiswa)
-	app.Put("/mahasiswa/:npm", controller.UpdateMahasiswa)
-	app.Delete("/mahasiswa/:npm", controller.DeleteMahasiswa)
-
-	// Auth
-	app.Post("/auth/login", controller.Login)
-	app.Get("/auth/profile/:phone", controller.GetProfile)
 }
